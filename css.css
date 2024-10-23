@@ -1,0 +1,37 @@
+
+*{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.parentcontainer{
+    display: flex;
+    
+    margin: 0px px;
+    padding: 20px;      
+}
+
+.p{
+    padding: 10px;
+    background-color: brown; 
+    color: black;
+    justify-content: space-between;
+    border: 1px;
+    border-color: black;
+    
+}
+.parentcontainer2{
+    display: flex;
+    background-color: midnightblue;
+    color: white; 
+    padding: 1px;
+    margin: 50px;
+    
+}
+.parentcontainer3{
+    display: flex;
+    background-color: chartreuse;
+    color: white;
+    padding: 1px;
+    margin: 50px;
+
+}
